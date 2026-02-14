@@ -1,6 +1,5 @@
 # 💫 About Me:
-AI-powered Virtual Assistant with emotion detection and voice interaction<br>AI/ML projects, Web-based chatbots, and beginner-friendly open source projects<br>Improving machine learning models and deploying AI projects<br>Data Structures & Algorithms in Python, Machine Learning with Python, and Web Development (HTML, CSS, JavaScript)<br>Binary Search, AI Chatbot development, Python basics, and beginner AI projects<br>I love building smart systems that can talk, think, and show emotions like humans 🤖<br>
-
+AI-powered Virtual Assistant with emotion detection and voice interaction<br>AI/ML projects, Web-based chatbots, and beginner-friendly open source projects<br>Improving machine learning models and deploying AI projects<br>Data Structures & Algorithms in Python, Machine Learning with Python, and Web Development (HTML, CSS, JavaScript)<br>Binary Search, AI Chatbot development, Python basics, and beginner AI projects<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishalkumarjha_19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalkumarjha192@gmail.com) 
