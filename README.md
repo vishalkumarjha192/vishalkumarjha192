@@ -1,6 +1,21 @@
 # 💫 About Me:
 AI-powered Virtual Assistant with emotion detection and voice interaction<br>AI/ML projects, Web-based chatbots, and beginner-friendly open source projects<br>Improving machine learning models and deploying AI projects<br>Data Structures & Algorithms in Python, Machine Learning with Python, and Web Development (HTML, CSS, JavaScript)<br>Binary Search, AI Chatbot development, Python basics, and beginner AI projects<br>
 
+## 💼 Role: Frontend Developer & UI/UX Designer
+###🤖 Project: AI-Powered Virtual Assistant
+###🎯 Responsibilities
+🎨 Designed intuitive and user-friendly UI using Figma
+💻 Developed responsive frontend using HTML, CSS, JavaScript & React
+📱 Ensured mobile-friendly and cross-browser compatibility
+🧠 Created smooth user interaction for AI chat interface
+✨ Focused on clean design, accessibility & better user experience
+🔄 Integrated frontend with backend AI APIs
+
+## 
+👨‍💻 Frontend Developer & UI/UX Designer  
+⚡ React | JavaScript | Tailwind CSS | HTML | CSS | Figma  
+🎯 Focused on responsive design & user-centered experiences
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishalkumarjha_19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalkumarjha192@gmail.com) 
 
