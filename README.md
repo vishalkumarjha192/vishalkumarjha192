@@ -1,7 +1,7 @@
 # 💫 About Me:
 AI-powered Virtual Assistant with emotion detection and voice interaction<br>AI/ML projects, Web-based chatbots, and beginner-friendly open source projects<br>Improving machine learning models and deploying AI projects<br>Data Structures & Algorithms in Python, Machine Learning with Python, and Web Development (HTML, CSS, JavaScript)<br>Binary Search, AI Chatbot development, Python basics, and beginner AI projects<br>
 
-## 💼 Role: Frontend Developer & UI/UX Designer
+## 💼 Role: Frontend Developer & UI/UX Designer<br>
 ###🤖 Project: AI-Powered Virtual Assistant
 ###🎯 Responsibilities
 🎨 Designed intuitive and user-friendly UI using Figma
