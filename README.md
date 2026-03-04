@@ -27,7 +27,7 @@ Binary Search • AI Chatbot Development • Python Basics • Beginner AI Proje
 
 ## 💼 Project Role  
 
-### 🤖 AI-Powered Virtual Assistant  
+### 🤖 AI-Powered Virtual Assistant (isabel-ai)  
 **Role:** Frontend Developer & UI/UX Designer  
 
 #### 🎯 Responsibilities  
