@@ -50,7 +50,7 @@ Binary Search • AI Chatbot Development • Python Basics • Beginner AI Proje
 ## 💻 Tech Stack  
 
 ### 👨‍💻 Programming  
-C++ • Java • Python • JavaScript • PHP  
+C++ • Java • Python • JavaScript 
 
 ### 🌐 Web Development  
 HTML • CSS • React • Node.js • Tailwind CSS  
