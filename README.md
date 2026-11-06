@@ -79,7 +79,11 @@ NumPy • Pandas
   <img src="https://streak-stats.demolab.com/?user=vishalkumarjha192&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
+
+
+
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumarjha192&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
@@ -108,7 +112,7 @@ NumPy • Pandas
   <img src="https://profile-counter.glitch.me/vishalkumarjha192/count.svg" alt="Profile Visitors" />
 </p>
 
----
+--- -->
 
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
