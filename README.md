@@ -83,12 +83,21 @@ NumPy • Pandas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumarjha192&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumarjha192&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vishalkumarjha192&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=vishalkumarjha192&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
 
 ---
@@ -96,11 +105,11 @@ NumPy • Pandas
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vishalkumarjha192&icon=0&color=0" alt="Profile Visitor Count" />
+  <img src="https://profile-counter.glitch.me/vishalkumarjha192/count.svg" alt="Profile Visitors" />
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.</i>
+  ⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 </p>
