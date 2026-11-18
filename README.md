@@ -1,167 +1,112 @@
-::: {align="center"}
-# Vishal Kumar Jha
+<h1 align="center">Hi 👋, I'm Vishal Kumar Jha</h1>
 
-### Frontend Developer · UI/UX Designer · AI/ML Enthusiast
+<h3 align="center">Frontend Developer & UI/UX Designer</h3>
 
-```{=html}
-<p>
-```
-`<a href="https://github.com/vishalkumarjha192">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-vishalkumarjha192-181717?style=for-the-badge&logo=github" alt="GitHub profile" />`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/vishal-kumar-jha-7a9165382/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />`{=html}
-`</a>`{=html}
-```{=html}
+<p align="center">
+  Building responsive, modern & user-centered web experiences
 </p>
-```
-```{=html}
-<p>
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend+Developer;UI%2FUX+Designer;AI%2FML+Enthusiast;Building+Ideas+Into+Digital+Experiences" alt="Typing headline" />`{=html}
-```{=html}
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-```
-```{=html}
-<p>
-```
-`<em>`{=html}Designing intuitive interfaces. Writing clean code.
-Exploring intelligent technology.`</em>`{=html}
-```{=html}
+
+---
+
+## 🚀 About Me
+
+- 🎯 Frontend developer focused on clean, responsive and user-centered interfaces
+- 🎨 UI/UX designer who designs in Figma and ships in React
+- 🧠 Completed **DSA in C++ and Python** and **Machine Learning**
+- 📚 Currently improving my full-stack skills (Node.js, MongoDB) and building real-world projects
+- 🤝 Open to collaborations, internships and open-source contributions
+
+---
+
+## 📈 Skill Level
+
+| Language | Level |
+|----------|-------|
+| C++      | Intermediate |
+| Python   | Intermediate |
+| Java     | Basic |
+| JavaScript | Proficient (Web Development) |
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### ☁️ Tools & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+### 📊 Python Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Project Name](https://github.com/YOUR_USERNAME/repo) | One-line description of what it does | React, Tailwind CSS |
+| [Project Name](https://github.com/YOUR_USERNAME/repo) | One-line description of what it does | MERN Stack |
+| [Project Name](https://github.com/YOUR_USERNAME/repo) | One-line description of what it does | Python, ML |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-```
-:::
 
-------------------------------------------------------------------------
-
-## 👨‍💻 About Me
-
-I'm a developer focused on building responsive, accessible, and
-user-centered web experiences. I enjoy combining frontend development
-with thoughtful UI/UX design and exploring how AI and Machine Learning
-can solve practical problems.
-
--   💻 **Primary focus:** Frontend Development and UI/UX Design
--   ⚛️ **Frontend toolkit:** React, JavaScript, HTML, CSS, Tailwind CSS
--   🧠 **Problem solving:** Data Structures & Algorithms with C++ and
-    Python
--   🤖 **AI/ML:** Completed foundational Machine Learning learning and
-    practice
--   🎨 **Design:** Creating interfaces and prototypes with Figma
--   🌱 **Mindset:** Learning continuously and building through hands-on
-    projects
-
-## 🧰 Technical Skills
-
-### Programming Languages
-
-  Language     Proficiency
-  ------------ -------------------
-  C++          Intermediate
-  Python       Intermediate
-  Java         Basic
-  JavaScript   Working knowledge
-
-### Frontend Development
-
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs" alt="Frontend technologies" />`{=html}
-```{=html}
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
-```
-`HTML` · `CSS` · `JavaScript` · `React` · `Tailwind CSS` · `Node.js`
 
-### Databases
+---
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database technologies" />`{=html}
-```{=html}
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-```
-`MySQL` · `MongoDB`
 
-### AI, Machine Learning & Data Science
-
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI and Python tools" />`{=html}
-```{=html}
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
-```
-`Machine Learning` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
-
-### Tools, Cloud & Design
-
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,figma,ps,gcp" alt="Tools and platforms" />`{=html}
-```{=html}
-</p>
-```
--   **Development:** Git, GitHub
--   **Cloud / Platforms:** Google Cloud, Oracle
--   **Design:** Figma, Canva, Adobe Photoshop
-
-## 📌 Areas of Focus
-
--   Responsive web application development
--   User interface design and user experience
--   Data Structures and Algorithms
--   Machine Learning concepts and practical projects
--   Data analysis and visualization with Python
-
-## 📊 GitHub Overview
-
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalkumarjha192&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vishal's GitHub statistics" />`{=html}
-
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumarjha192&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />`{=html}
-
-`<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=vishalkumarjha192&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />`{=html}
-:::
-
-## 🚀 Featured Projects
-
-Here are some projects and areas I'm working on. Visit my repositories
-to explore the latest work.
-
--   **Web Development:** Responsive websites and React-based interfaces.
--   **AI / Machine Learning:** Python-based learning projects and ML
-    experiments.
--   **Problem Solving:** DSA practice and algorithm implementations in
-    C++ and Python.
-
-> Replace these descriptions with links to your strongest repositories
-> as you publish or finalize projects.
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, designers, and technology
-enthusiasts to learn, collaborate, and build meaningful projects.
-
-```{=html}
-<p>
-```
-`<a href="https://github.com/vishalkumarjha192">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/vishal-kumar-jha-7a9165382/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-### Thanks for visiting my profile!
-
-*Keep learning · Keep building · Keep improving*
-:::
