@@ -92,16 +92,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project Name](https://github.com/vishalkumarjha192/REPO_NAME) | One-line description of what it does | React, Tailwind CSS |
-| [Project Name](https://github.com/vishalkumarjha192/REPO_NAME) | One-line description of what it does | MERN Stack |
-| [Project Name](https://github.com/vishalkumarjha192/REPO_NAME) | One-line description of what it does | Python, ML |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
