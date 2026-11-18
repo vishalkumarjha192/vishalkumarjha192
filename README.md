@@ -1,119 +1,167 @@
-# 👋 Hi, I'm Vishal Kumar Jha  
+::: {align="center"}
+# Vishal Kumar Jha
 
-👨‍💻 Frontend Developer & UI/UX Designer  
-⚡ React | JavaScript | Tailwind CSS | HTML | CSS | Figma  
-🎯 Building responsive, modern & user-centered web experiences  
+### Frontend Developer · UI/UX Designer · AI/ML Enthusiast
 
----
-
-## 💫 About Me  
-
-🚀 Currently working on an AI-powered Virtual Assistant with emotion detection and voice interaction.  
-
-🤖 Interested in:  
-- AI/ML Projects  
-- Web-based Chatbots  
-- Beginner-friendly Open Source Projects  
-
-📚 Currently Learning & Improving:  
-- Data Structures & Algorithms (Python)  
-- Machine Learning with Python  
-- AI Model Deployment  
-
-💡 Core Concepts:  
-Binary Search • AI Chatbot Development • Python Basics • Beginner AI Projects  
-
----
-
-## 💼 Project Role  
-
-### 🤖 AI-Powered Virtual Assistant (isabel-ai)  
-**Role:** Frontend Developer & UI/UX Designer  
-
-#### 🎯 Responsibilities  
-- 🎨 Designed intuitive and user-friendly UI using Figma  
-- 💻 Developed responsive frontend using HTML, CSS, JavaScript & React  
-- 📱 Ensured mobile-friendly & cross-browser compatibility  
-- 🧠 Created smooth and interactive AI chat interface  
-- ✨ Focused on accessibility & clean UI design  
-- 🔄 Integrated frontend with backend AI APIs  
-
----
-
-## 🌐 Connect With Me  
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishalkumarjha_19)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalkumarjha192@gmail.com)
-
----
-
-## 💻 Tech Stack  
-
-### 👨‍💻 Programming  
-C++ • Java • Python • JavaScript 
-
-### 🌐 Web Development  
-HTML • CSS • React • Node.js • Tailwind CSS  
-
-### 🗄️ Databases  
-MySQL • MongoDB  
-
-### ☁️ Tools & Cloud  
-Git • GitHub • Google Cloud • Oracle  
-
-### 🎨 Design  
-Figma • Canva • Adobe Photoshop  
-
-### 📊 Python Libraries  
-NumPy • Pandas  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=vishalkumarjha192&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
+```{=html}
+<p>
+```
+`<a href="https://github.com/vishalkumarjha192">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-vishalkumarjha192-181717?style=for-the-badge&logo=github" alt="GitHub profile" />`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/vishal-kumar-jha-7a9165382/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />`{=html}
+`</a>`{=html}
+```{=html}
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishalkumarjha192&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+```
+```{=html}
+<p>
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend+Developer;UI%2FUX+Designer;AI%2FML+Enthusiast;Building+Ideas+Into+Digital+Experiences" alt="Typing headline" />`{=html}
+```{=html}
 </p>
-
-
-
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumarjha192&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+```
+```{=html}
+<p>
+```
+`<em>`{=html}Designing intuitive interfaces. Writing clean code.
+Exploring intelligent technology.`</em>`{=html}
+```{=html}
 </p>
+```
+:::
 
+------------------------------------------------------------------------
 
----
+## 👨‍💻 About Me
 
-## 💻 Most Used Languages
+I'm a developer focused on building responsive, accessible, and
+user-centered web experiences. I enjoy combining frontend development
+with thoughtful UI/UX design and exploring how AI and Machine Learning
+can solve practical problems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumarjha192&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+-   💻 **Primary focus:** Frontend Development and UI/UX Design
+-   ⚛️ **Frontend toolkit:** React, JavaScript, HTML, CSS, Tailwind CSS
+-   🧠 **Problem solving:** Data Structures & Algorithms with C++ and
+    Python
+-   🤖 **AI/ML:** Completed foundational Machine Learning learning and
+    practice
+-   🎨 **Design:** Creating interfaces and prototypes with Figma
+-   🌱 **Mindset:** Learning continuously and building through hands-on
+    projects
+
+## 🧰 Technical Skills
+
+### Programming Languages
+
+  Language     Proficiency
+  ------------ -------------------
+  C++          Intermediate
+  Python       Intermediate
+  Java         Basic
+  JavaScript   Working knowledge
+
+### Frontend Development
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs" alt="Frontend technologies" />`{=html}
+```{=html}
 </p>
+```
+`HTML` · `CSS` · `JavaScript` · `React` · `Tailwind CSS` · `Node.js`
 
----
+### Databases
 
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vishalkumarjha192&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database technologies" />`{=html}
+```{=html}
 </p>
+```
+`MySQL` · `MongoDB`
 
----
+### AI, Machine Learning & Data Science
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/vishalkumarjha192/count.svg" alt="Profile Visitors" />
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI and Python tools" />`{=html}
+```{=html}
 </p>
+```
+`Machine Learning` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
 
---- -->
+### Tools, Cloud & Design
 
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,figma,ps,gcp" alt="Tools and platforms" />`{=html}
+```{=html}
 </p>
+```
+-   **Development:** Git, GitHub
+-   **Cloud / Platforms:** Google Cloud, Oracle
+-   **Design:** Figma, Canva, Adobe Photoshop
+
+## 📌 Areas of Focus
+
+-   Responsive web application development
+-   User interface design and user experience
+-   Data Structures and Algorithms
+-   Machine Learning concepts and practical projects
+-   Data analysis and visualization with Python
+
+## 📊 GitHub Overview
+
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalkumarjha192&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vishal's GitHub statistics" />`{=html}
+
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumarjha192&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />`{=html}
+
+`<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=vishalkumarjha192&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />`{=html}
+:::
+
+## 🚀 Featured Projects
+
+Here are some projects and areas I'm working on. Visit my repositories
+to explore the latest work.
+
+-   **Web Development:** Responsive websites and React-based interfaces.
+-   **AI / Machine Learning:** Python-based learning projects and ML
+    experiments.
+-   **Problem Solving:** DSA practice and algorithm implementations in
+    C++ and Python.
+
+> Replace these descriptions with links to your strongest repositories
+> as you publish or finalize projects.
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, designers, and technology
+enthusiasts to learn, collaborate, and build meaningful projects.
+
+```{=html}
+<p>
+```
+`<a href="https://github.com/vishalkumarjha192">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/vishal-kumar-jha-7a9165382/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### Thanks for visiting my profile!
+
+*Keep learning · Keep building · Keep improving*
+:::
