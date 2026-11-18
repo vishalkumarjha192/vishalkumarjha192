@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Jha</h1>
 
-<h3 align="center">Frontend Developer & UI/UX Designer</h3>
+<h3 align="center">Developer | Aspiring Data Analyst & AI Engineer</h3>
 
 <p align="center">
   Building responsive, modern & user-centered web experiences
@@ -19,11 +19,22 @@
 
 ## 🚀 About Me
 
-- 🎯 Frontend developer focused on clean, responsive and user-centered interfaces
-- 🎨 UI/UX designer who designs in Figma and ships in React
+- 🎯 Developer focused on clean, responsive and user-centered interfaces
+- 🎨 Designs in Figma and ships in React
 - 🧠 Completed **DSA in C++ and Python** and **Machine Learning**
-- 📚 Currently improving my full-stack skills (Node.js, MongoDB) and building real-world projects
+- 📊 Currently starting my journey in **Data Analytics** and **AI Engineering**
+- 🤖 Improving my skills in **Machine Learning & AI**
 - 🤝 Open to collaborations, internships and open-source contributions
+
+---
+
+## 🌱 Currently Learning
+
+| Focus Area | What I'm Working On |
+|------------|---------------------|
+| 📊 Data Analytics | Data cleaning, EDA and visualization with Python (NumPy, Pandas, Matplotlib, Seaborn) |
+| 🤖 Machine Learning | Strengthening core algorithms and model building |
+| 🧠 AI Engineering | Building AI-powered applications and integrating models into real projects |
 
 ---
 
@@ -74,15 +85,20 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
+### 🤖 Data & AI (Learning)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 ---
 
 ## 📌 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project Name](https://github.com/YOUR_USERNAME/repo) | One-line description of what it does | React, Tailwind CSS |
-| [Project Name](https://github.com/YOUR_USERNAME/repo) | One-line description of what it does | MERN Stack |
-| [Project Name](https://github.com/YOUR_USERNAME/repo) | One-line description of what it does | Python, ML |
+| [Project Name](https://github.com/vishalkumarjha192/REPO_NAME) | One-line description of what it does | React, Tailwind CSS |
+| [Project Name](https://github.com/vishalkumarjha192/REPO_NAME) | One-line description of what it does | MERN Stack |
+| [Project Name](https://github.com/vishalkumarjha192/REPO_NAME) | One-line description of what it does | Python, ML |
 
 ---
 
