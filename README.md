@@ -110,7 +110,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-kumar-jha-7a9165382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vishalkumarjha192@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.instagram.com/vishalkumarjha_19/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/vishalkumarjha192/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/vishalkumarjha192"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 <p align="center">
